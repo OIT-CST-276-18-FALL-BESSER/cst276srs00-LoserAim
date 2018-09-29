@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Andrew Doser
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: There are no unresolved errors. 
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: Built and ran the program. Program Exitted on 0. Checked the error list for warnings, found nothing. 
 
 ###
