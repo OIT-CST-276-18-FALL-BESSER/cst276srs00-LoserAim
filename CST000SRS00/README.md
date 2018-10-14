@@ -10,6 +10,7 @@ Demonstrate your ability for a 100% correct submission for the C++ Hello World p
 You must complete this task with a 100% score to pass this class.  
 
 Specification:  
+<<<<<<< HEAD:CST000SRS00/README.md
 
 - [x] 0. Fork this repository.    
 - [x] 1. Don't forget to **FORK this repository.**  DO NOT clone or copy!  
@@ -22,6 +23,19 @@ Specification:
 - [x] 8. Commit your changes using: git commit -m "Description of changes in this commit."  
 - [x] 9. Push your changes to your repository.  
 - [x] 10. Confirm your Pull Request changes are available on GitHub for this repository.  
+=======
+ 
+- [ ] 1. Accept the Github Classroom assignment.   
+- [ ] 2. Clone YOUR repository. Do not clone the instructor's repository.  
+- [ ] 3. Add the REPORT.md file to your solution.  
+- [ ] 4. Modify the local main.cpp by uncommenting the // code to output "hello, world".  
+- [ ] 5. Build all versions and run the program.  You may need to right click the solution and click Retarget solution.  
+- [ ] 6. Update the REPORT.md file.  
+- [ ] 7. Review the git status of your local changes.  
+- [ ] 8. Commit your changes using: git commit -m "Description of changes in this commit."  
+- [ ] 9. Push your changes to your repository.  
+- [ ] 10. Confirm your changes are available on GitHub.  
+>>>>>>> 68c49b302716a168d115ad7082d0dda16c956153:README.md
 
 If you want to contribute to this repository, email me a message and a Pull Request updating the instructions to make them clearer.  
 
